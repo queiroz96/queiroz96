@@ -7,7 +7,6 @@
 - 😄 Pronouns: Ele/Dele
 
 <div> 
-  <a href = "mailto:viniciusqueirosz@outlook.com"><img src="https://play.google.com/store/apps/details?id=com.microsoft.office.outlook&hl=pt_BR" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vinicius-queiroz-800152119/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
 </div>
